@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="./style.css">
 <b class="title">#Todo App NodeJs</b>
 <br/>
 Write APIs to perform operations on the table todo, with the following columns,<br/>
