@@ -1,0 +1,20 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.title{
+    color: #698269;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.row{
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+}
+.col{
+    justify-content: center;
+    align-items: center;
+}
